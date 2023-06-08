@@ -5,12 +5,12 @@ Ce projet a été réalisé sous la collaboration de :
   * [Bouchnak Maher](https://github.com/Bouchnak-Maher)
   * [Bahri Adem ](https://github.com/Bahri-Adem)
   * [Mabrouk Mohamed Wadhah](https://github.com/WadhahMabrouk)
-#### **Supervisé par** 
+#### **Supervisé par :** 
 * Dr.Kannoun Slim
 ### **Objectif du projet:**
 - Facilité la vie des patients et ne plus les surcharger par un grand nombre de documents médicaux sous support papier, par un grand nombre de déplacement entre les intervenants au niveau de leurs soins médicaux, etc).
 
-### **Outils de développement**
+### **Outils de développement :**
 
 <table>
     <thead>
@@ -53,10 +53,10 @@ Ce projet a été réalisé sous la collaboration de :
 * **Patient Details**
 ![Patient Details](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5430b6d1-7578-42ea-86b2-e2f1ccbfbe07)
 * **Prescription**
-* ![Prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5f7de821-7083-43f3-891d-5d06ce992ffd)
-* * **Radiographie**
-* ![Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/d664dfcf-9eaf-41cb-8233-3fa1371eedda)
-* **Add Patient **
+ ![Prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5f7de821-7083-43f3-891d-5d06ce992ffd)
+*  **Radiographie**
+ ![Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/d664dfcf-9eaf-41cb-8233-3fa1371eedda)
+* **Add Patient**
 ![add_Patient](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/e50151e3-880d-402d-935f-ac3d90d1d1d0)
 * **Add Prescription**
 ![add_prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/85666ab5-d519-468c-a905-54111fa4b975)
@@ -79,4 +79,4 @@ Ce projet a été réalisé sous la collaboration de :
 * **Radiographie**
 ![centre_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/41a63028-e024-48f4-936f-9ad58af92210)
 * **Add Result**
-![add_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/df57a744-d26d-48a3-ae6c-f99577e76d93)
+![Resultat](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/e9c427a3-fec2-4cf5-bdf5-a59185ad0f59)
