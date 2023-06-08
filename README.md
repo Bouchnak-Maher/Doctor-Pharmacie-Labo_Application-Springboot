@@ -1,5 +1,6 @@
 # Doctor-Pharmacie-Labo_Application-Springboot
-- Centralisation de la base des données  des logiciels,et  échanger  les données entre tous les intervenants impliqués dans les soins médicaux des patients  : cabinets médicaux, pharmacies, laboratoires d'analyse, cliniques et centres de radiographie.
+- Cette projet consiste à concevoir une application innovante qui centralise la base des données  des logiciels et  échanger  les données entre tous les intervenants impliqués dans les soins médicaux des patients  : cabinets médicaux, pharmacies, laboratoires d'analyse, cliniques et centres de radiographie.
+
 #### **Contributeurs :**
 Ce projet a été réalisé sous la collaboration de :
   * [Bouchnak Maher](https://github.com/Bouchnak-Maher)
