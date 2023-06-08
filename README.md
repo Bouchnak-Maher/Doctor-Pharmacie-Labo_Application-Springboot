@@ -51,32 +51,31 @@ Ce projet a été réalisé sous la collaboration de :
 
 ### **Interfaces de Docteur**
 * **Patient Details**
-![Patient Details](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5430b6d1-7578-42ea-86b2-e2f1ccbfbe07)
+![Patient Details](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/43b48edf-8d3b-4489-8b1f-018e86196d0f)
 * **Prescription**
- ![Prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5f7de821-7083-43f3-891d-5d06ce992ffd)
+![Prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/65417363-9390-4e4b-b12b-a9f8e9b918c6)
 *  **Radiographie**
- ![Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/d664dfcf-9eaf-41cb-8233-3fa1371eedda)
+![Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/1c59278b-522d-4b9d-b0f8-a14d4f376142)
 * **Add Patient**
 ![add_Patient](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/e50151e3-880d-402d-935f-ac3d90d1d1d0)
 * **Add Prescription**
-![add_prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/85666ab5-d519-468c-a905-54111fa4b975)
+![add_prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/0edb66a7-097e-44de-991f-ccad030d0ce0)
 
 * **Add Radiographie**
-![add_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/df57a744-d26d-48a3-ae6c-f99577e76d93)
+![add_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/5d58da58-5678-4a40-817a-ae2dca8d5fcb)
 
 ### **Interfaces de Pharmacie**
 * **Patient Details**
-![pat_pha](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/8dad87d1-4aa5-4918-b0be-424db04ce7fc)
+![pat_pha](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/f6092c64-d6ac-4345-8e4a-9d318d2ba65d)
 
 * **Prescription**
-![Pharmacie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/edd04a23-e599-4c9b-a2ff-034bca6a3893)
-
+![Pharmacie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/676be8cc-bc6b-4a18-afb3-ce745b39af55)
 
 ### **Interfaces de centre de Radiographie**
 * **Patient Details**
-![patien_cent](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/2f4f226a-500a-45fe-8a9a-1bfb7dc350aa)
+![patien_cent](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/35b0491f-46b5-4921-84d8-0609b58469be)
 
 * **Radiographie**
-![centre_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/41a63028-e024-48f4-936f-9ad58af92210)
+![centre_Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/97cb9a25-3114-4004-aeb7-4e0e1fc9d52f)
 * **Add Result**
-![Resultat](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/e9c427a3-fec2-4cf5-bdf5-a59185ad0f59)
+![Resultat](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/469fe792-1ff5-4bc6-8fc6-612398244054)
