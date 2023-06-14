@@ -58,7 +58,7 @@ Ce projet a été réalisé sous la collaboration de :
 *  **Radiographie**
 ![Radiographie](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/1c59278b-522d-4b9d-b0f8-a14d4f376142)
 * **Add Patient**
-![add_Patient](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/e50151e3-880d-402d-935f-ac3d90d1d1d0)
+![add_Patient](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/23692097-45d5-46f2-895b-38a7bc0c7b98)
 * **Add Prescription**
 ![add_prescription](https://github.com/Bouchnak-Maher/Doctor-Pharmacie-Labo_Application-Springboot/assets/94197705/0edb66a7-097e-44de-991f-ccad030d0ce0)
 
